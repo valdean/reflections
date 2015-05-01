@@ -21,9 +21,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Perhaps by emailing files back and forth. Tracking changes and merging would be much more difficult. I don't see any way it would be easier.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Using a seaprate branch let's you experiment with a change without actually making it canonical in master. This is especially useful for collaboration, where one person maintains the master branch and other individuals can submit changes by creating new branches and submitting pull requests.
